@@ -4,7 +4,7 @@
 **Ex. No.:** 1  
 **Title of the Exercise:** Working with Widgets and Layouts using Flutter (Fruit List Application)  
 **Date of Exercise:** 11-11-2026  
-**GitHub Code Link:** *(Paste your public GitHub repository link here)*  
+**GitHub Code Link:** https://github.com/Allwyy08/Flutter-Lab-Experiments/tree/main/Experiment-01  
 **Video Link:** *(Paste your Google Drive screen recording link here)*  
 
 ---
