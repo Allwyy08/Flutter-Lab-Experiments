@@ -340,11 +340,19 @@ class FruitCard extends StatelessWidget {
 
 ---
 
-### 4. Output
-The application successfully renders a clean, colorful, and responsive list of 10 fruits inside cards:
-- Top AppBar displays `"Fruit List"` with teal theme.
-- Each fruit card displays a colored emoji badge, fruit name, short description, category badge, and formatted price with unit.
-- Smooth scrolling is enabled using `ListView.builder`.
+### 4. Output Screenshots
+
+#### Screenshot 1: Application Launch & Initial Fruit List
+- **Description:** Displays the application upon launch with the `AppBar` titled `"Fruit List"`, teal theme, and the first set of fruits (Apple, Banana, Orange, Strawberry, Mango) rendered inside elevated `Card` widgets using `Row`, `Column`, and `Container`.
+- *(Insert Screenshot 1 here)*
+
+#### Screenshot 2: Scrolled View (ListView.builder Demonstration)
+- **Description:** Demonstrates the dynamic scrolling capability of `ListView.builder` by scrolling down to display the remaining fruits (Grapes, Watermelon, Pineapple, Avocado, Blueberry).
+- *(Insert Screenshot 2 here)*
+
+#### Screenshot 3: Mobile View / Card Widget Anatomy
+- **Description:** Displays the responsive mobile layout (emulated via Chrome DevTools `Ctrl + Shift + M`), highlighting the individual `FruitCard` structure: emoji in styled `Container`, title and description in `Column`, and price badge.
+- *(Insert Screenshot 3 here)*
 
 ---
 
